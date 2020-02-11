@@ -22,4 +22,4 @@ status:
   ingress:                                                            
     - conditions:
         - status: 'True'
-          type: Admitted"
+          type: Admitted
